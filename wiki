@@ -1,0 +1,17 @@
+SMS Chatbot..
+
+An interactive kiosk is a computer terminal featuring specialized hardware and software that provides access to information and applications for 
+communication, commerce, entertainment, or education.
+
+By 2010, the largest bill pay kiosk network is AT&T for the phone customers which allows customers to pay their phone bills. 
+Verizon and Sprint have similar units for their customers.
+
+Payment kiosk Early interactive kiosks sometimes resembled telephone booths, but have been embraced by retail, foodservice, 
+and hospitality to improve customer service and streamline operations. Interactive kiosks are typically placed in the high foot traffic 
+settings such as shops, hotel lobbies, or airports.
+
+The integration of technology allows kiosks to perform a wide range of functions, evolving into self-service kiosks. 
+For example, kiosks may enable users to order from a shop's catalog when items are not in stock, check out a library book, 
+look up information about products, issue a hotel key card, enter a public utility bill account number to perform an online transaction, 
+or collect cash in exchange for merchandise. Customized components such as coin hoppers, bill acceptors, card readers, and thermal printers enable 
+kiosks to meet the owner's specialized needs.
